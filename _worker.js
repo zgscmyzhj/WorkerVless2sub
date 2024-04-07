@@ -20,7 +20,7 @@ let addressesnotls = [
 	//'www.visa.com.sg#官方优选域名',
 	//'www.wto.org:8080#官方优选域名',
 	//'www.who.int:8880#官方优选域名',
-	'time.cloudflare.com:80#自选域名',
+'time.cloudflare.com:80#自选域名',
 'shopify.com:80#自选域名',
 'time.is:80#自选域名',
 'icook.hk:80#自选域名',
@@ -67,7 +67,7 @@ let addressesnotls = [
 'www.iakeys.com:80#自选域名',
 'edtunnel-dgp.pages.dev:80#自选域名',
 'www.d-555.com:80#自选域名',
-'fbi.gov:80#自选域名’,
+'fbi.gov:80#自选域名',
 ];
 
 // 设置优选noTLS地址api接口
